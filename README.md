@@ -1,4 +1,4 @@
-** DRA Dynamic Form Builder: Create Awesome Forms with Ease! **
+*DRA Dynamic Form Builder: Create Awesome Forms with Ease!*
 
 **What is this?**
 
@@ -37,4 +37,4 @@ Ready to share your form builder with the world? Buckle up!
 
 **Contribution:**
 
-Welcome contributions to this project! Feel free to open pull requests with bug fixes or enhancements. We appreciate your help in making this form builder even better.
+Welcome contributions to this project! Feel free to open pull requests with bug fixes or enhancements. I appreciate your help in making this form builder even better.
